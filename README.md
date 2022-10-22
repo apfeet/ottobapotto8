@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**ottobapotto8/ottobapotto8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Chi sono?
 
-Here are some ideas to get you started:
+Sono un ragazzo di 15 anni che frequenta il 2/5 anno di scuola informatica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Cosa mi interessa?
+| Html5 | CSS/SCSS    |          Javascript     |
+| :-------- | :------- | :------------------------- |
+| `FullStack` | `maybe fullstack` | `Currently studyng`|
+|-Skills 94%  | -Skills 68%       | -Skills 30%
+
+
+## 🔗 Links
+IG = https://www.instagram.com/mqon.8/
+
+
+
+## FAQ
+
+#### ASK ME QUESTION ON IG | @mqon.8
+**i'll answer in this section**

@@ -7,7 +7,7 @@ Sono un ragazzo di 15 anni che frequenta il 2/5 anno di scuola informatica
 | Html5 | CSS/SCSS    |          Javascript     |
 | :-------- | :------- | :------------------------- |
 | `FullStack` | `maybe fullstack` | `Currently studyng`|
-|-Skills 94%  | -Skills 68%       | -Skills 30%
+|-Skills 100%  | -Skills 68%       | -Skills 30%
 
 
 ## 🔗 Links

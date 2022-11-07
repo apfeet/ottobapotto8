@@ -4,10 +4,10 @@
 Sono un ragazzo di 15 anni che frequenta il 2/5 anno di scuola informatica
 
 ## 🚀Cosa mi interessa?
-| Html5 | CSS/SCSS    |          Javascript     |
-| :-------- | :------- | :------------------------- |
-| `FullStack` | `maybe fullstack` | `Currently studyng`|
-|-Skills 100%  | -Skills 70%       | -Skills 30%
+
+🕸️web developer | html - css - js -php(currently studying)
+🐍python developer | (studying)
+🗄️c & c++ | studying on highscool
 
 
 ## 🔗 Links

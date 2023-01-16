@@ -6,9 +6,9 @@
 
 <h1 align="center">👇🏼Things👇🏼</h1>
 
-- 🔭 I’m currently working on **Software Cross-Platform (for Desktop)**
+- 🔭 I’m currently working on **Software Cross-Platform**
 
-- 🌱 I’m currently learning **Qt on c++**
+- 🌱 I’m currently learning **FullStack development**
 
 - 🤝 I’m looking for help with **Website,Front-End**
 

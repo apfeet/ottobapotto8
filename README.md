@@ -6,7 +6,7 @@
 
 <h1 align="center">👇🏼Things👇🏼</h1>
 
-- 🔭 I’m currently working on **Software Cross-Platform**
+- 🔭 I’m currently working on **Non Fungible Token project w @reyon20**
 
 - 🌱 I’m currently learning **FullStack development**
 

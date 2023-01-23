@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ottaviomalatacca030907@gmail.com**
 
-- ⚡ Fun fact **I like math but i sucks at it 😳 I like 🪐Astronomy🪐**
+- ⚡ Fun fact **like 🪐Astronomy🪐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Non Fungible Token project w @reyon20**
 
-- 🌱 I’m currently learning **FullStack WebDevelopment **&&**Vite.js,React.js,Angular.js,Node.js**
+- 🌱 I’m currently learning **FullStack WebDevelopment && Vite.js,React.js,Angular.js,Node.js**
 
 - 🤝 I’m looking for help with **Website,Front-End**
 

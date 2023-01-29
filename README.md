@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Non Fungible Token project w @reyon20**
 
-- 🌱 I’m currently learning **FullStack development**
+- 🌱 I’m currently learning **FullStack WebDevelopment **&&**Vite.js,React.js,Angular.js,Node.js**
 
 - 🤝 I’m looking for help with **Website,Front-End**
 
-- 💬 Ask me about **React,Node.js**
+- 💬 Ask me about **C++,React.js,html,css**
 
 - 📫 How to reach me **ottaviomalatacca030907@gmail.com**
 

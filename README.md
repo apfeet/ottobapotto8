@@ -6,17 +6,17 @@
 
 <h1 align="center">👇🏼Things👇🏼</h1>
 
-- 🔭 I’m currently working on **Non Fungible Token project w @reyon20**
+- 🔭 I’m currently working on **Minecraft server and App cross-platform with flutter**
 
-- 🌱 I’m currently learning **FullStack WebDevelopment && Vite.js,React.js,Angular.js,Node.js**
+- 🌱 I’m currently learning **FullStack WebDevelopment && Vite.js,React.js,Angular.js,Node.js && Flutter, Appwrite(BaaS)**
 
-- 🤝 I’m looking for help with **Website,Front-End**
+- 🤝 I’m looking for help with **Website,Front-End, Plugginer(MC)**
 
-- 💬 Ask me about **C++,React.js,html,css**
+- 💬 Ask me about **C++,html,css,javascript,Dart,Flutter**
 
 - 📫 How to reach me **ottaviomalatacca030907@gmail.com**
 
-- ⚡ Fun fact **like 🪐Astronomy🪐**
+- ⚡ Fun fact **like 🪐Astronomy🪐 but i never had time to study it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

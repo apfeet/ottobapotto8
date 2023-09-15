@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ottaviomalatacca030907@gmail.com**
 
-- ⚡ Fun fact **Im also an editor with some skills an experience: https://www.youtube.com/watch?v=Jj4Sx9qqnJQ**
+- ⚡ Fun fact **Im also an editor with some skills an experience: [YouTube Channel](https://www.youtube.com/@developershub9098)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

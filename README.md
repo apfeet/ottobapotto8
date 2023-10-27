@@ -1,6 +1,6 @@
 ![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)
 <h1 align="center">Hi 👋, I'm otto ;)</h1>
-<h3 align="center">An Appassionate Developer from higschool in Sicily(Messina)</br>there's a couple few things to know about me👇🏼</h3>
+<h3 align="center">A Developer from higschool in Sicily(Messina)</br>there's a couple few things to know about me👇🏼</h3>
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ottobapotto8&label=Profile%20views&color=0e75b6&style=flat" alt="ottobapotto8" /> </p>
 

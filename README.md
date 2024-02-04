@@ -6,17 +6,18 @@
 
 <h1 align="center">👇🏼Things👇🏼</h1>
 
-- 🔭 I’m currently working on **Minecraft server and App cross-platform with flutter**
+- 🔭 I’m currently working on **[Brightify]([https://brightify.art)**
 
-- 🌱 I’m currently learning **FullStack WebDevelopment && Vite.js,React.js,Angular.js,Node.js && Flutter, Appwrite(BaaS)**
-
-- 🤝 I’m looking for help with **Website,Front-End, Plugginer(MC)**
+- 🌱 I’m currently learning **FullStack WebDevelopment && Vite.js,React.js,Angular.js,Node.js && Flutter, Appwrite(BaaS), CyberSecurity, and Elettrical Engineering**
 
 - 💬 Ask me about **C++,html,css,javascript,Dart,Flutter**
 
 - 📫 How to reach me **ottaviomalatacca030907@gmail.com**
 
-- ⚡ Fun fact **Im also an editor with some skills an experience: [YouTube Channel](https://www.youtube.com/@developershub9098)**
+- ⚡ Fun fact 👇🏼
+    **Im also an editor with some skills an experience: [YouTube Channel]([https://www.youtube.com/@developershub9098](https://www.youtube.com/@Ossigen8))**
+    **I like Wearing Good clothes and i'm into styling**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
